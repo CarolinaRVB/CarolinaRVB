@@ -7,7 +7,7 @@
       🎯 My Goal is to Contribute to as many **  ** as possible.
       ✨ I love to create different types of **  **.
 <td >
-      <img src="Assets/IMG_5508.jpg" height="400" width="700" alt="Carolina Vela Bastos"/>
+      <img src="Assets/IMG_5508.jpg" height="400" width="800" alt="Carolina Vela Bastos"/>
     </td>
     
   </tr>
