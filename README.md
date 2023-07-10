@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently pursuing my **PhD's in Biotechnology associated to software engineering**. 
+      🎓 I am currently pursuing my **PhD's in Biotec associated to software engineering**. 
       <br>
       🌱 I am currently learning **C** and also interested in **Data Science**.
       <br>
