@@ -1,4 +1,4 @@
-### Hi there <img src="Assets/hello-yellow.gif" height="70" width="70"/>
+### Hi there <img src="Assets/hello-yellow.gif" height="50" width="50"/>
 <table>
   <tr>
     <td valign="center">
