@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="Assets/giphy.gif" width="200" height="200"/>
+  <img src="Assets/giphy.gif" width="250" height="200"/>
 </div>
 <table>
   <tr>
