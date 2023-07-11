@@ -10,7 +10,7 @@
       <br>
       ✨ I love the challenges of **programming**.
 <td >
-      <img src="Assets/IMG_5508.jpg" height="350" width="280" alt="Carolina Vela Bastos"/>
+      <img src="Assets/IMG_5508.jpg" height="350" width="200" alt="Carolina Vela Bastos"/>
     </td>
     
   </tr>
