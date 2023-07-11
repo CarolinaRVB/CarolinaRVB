@@ -6,9 +6,9 @@
       <br>
       🌱 I am currently learning **C** and also interested in **Data Science**.
       <br>
-      🎯 My Goal is to Contribute to as many **  ** as possible.
+      🎯 My Goal is to Contribute to get a **job** in the field.
       <br>
-      ✨ I love to create different types of **  **.
+      ✨ I love the challenges of **programming**.
 <td >
       <img src="Assets/IMG_5508.jpg" height="350" width="280" alt="Carolina Vela Bastos"/>
     </td>
