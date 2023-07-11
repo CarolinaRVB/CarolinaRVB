@@ -1,4 +1,6 @@
-### Hi there <img src="Assets/hello-yellow.gif" height="50" width="50"/>
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr"/>
+</div>
 <table>
   <tr>
     <td valign="center">
