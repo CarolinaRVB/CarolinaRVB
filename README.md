@@ -1,4 +1,4 @@
-### Hi there <img src="https://tenor.com/bFtlc.gif"/>
+### Hi there <img src="Assets/hello-yellow.gif"/>
 <table>
   <tr>
     <td valign="center">
