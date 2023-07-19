@@ -8,10 +8,10 @@
 </div>
 <h1 align="left">
   Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  <img src="Assets/10.gif" width="100%" height="110"/>
 </h1>
- <img src="Assets/10.gif" width="100%" height="110"/>
- 
+
 ### :woman_technologist: About Me :
 <img align="left" src="Assets/i.png" height=350 width=50 />
 <img align="right" src="Assets/IMG_5508.jpg" height="350" width="260" margin-right="15" alt="Carolina Vela Bastos"/>
