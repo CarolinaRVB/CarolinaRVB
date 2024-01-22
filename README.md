@@ -1,26 +1,28 @@
-<div id="header" align="center">
+<div align="center">
   <img src="Assets/9.gif" width="100%" height="110"/>
 </div>
-<div id="Badges" align="center">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/carolina-vela-bastos-b32579b3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h1 align="center">
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
- 
-</h1>
 
-### :woman_technologist: About Me :
-<img align="left" src="Assets/i.png" height=350 width=50 />
-<img align="right" src="Assets/IMG_5508.jpg" height="350" width="260" margin-right="15" alt="Carolina Vela Bastos"/>
+# Carolina Vela Bastos
+## PhD Candidate in Biotec and Software Engineering
 
-🎓 I am currently pursuing my **PhD's in Biotec and software engineering**.
+Hello! I'm Carolina, a passionate technologist on a journey of exploration and learning.
 
-🌱 I am currently learning **C** and also interested in **Data Science**.
+### About Me
 
-🎯 My Goal is to Learn to get a **job** in the field.
+<div align="center">
+  <img src="Assets/i.png" height=350 width=50 />
+  <img src="Assets/IMG_5508.jpg" height="350" width="260" style="margin-right: 15px;" alt="Carolina Vela Bastos"/>
+</div>
 
-✨ I love the challenges of **programming**.
+- 🎓 Currently pursuing my **PhD in Biotec and Software Engineering**.
+- 🌱 Learning **C** and exploring the fascinating world of **Programming**.
+- 🎯 Goal: To secure a fulfilling **job** in the tech industry.
+- ✨ Passionate about the challenges of **programming**.
 
+Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/carolina-vela-bastos-b32579b3/).
