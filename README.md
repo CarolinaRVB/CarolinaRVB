@@ -9,7 +9,7 @@
 </div>
 
 # Carolina Vela Bastos
-## PhD Candidate in Biotec and Software Engineering
+## PhD Student in Biotec and Software Engineering
 
 Hello! I'm Carolina, a passionate technologist on a journey of exploration and learning.
 
