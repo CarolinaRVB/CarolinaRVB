@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carolinarvb" alt="carolinarvb" /></a> </p>
 
-- 🔭 I’m currently working on the **Minishell project from 42 School**
+- 🔭 I’m currently working on the **MiniRT project from 42 School**
 
 - 🌱 I’m currently learning **C languange and will soon evolve to C++ and others**
 
