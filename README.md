@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on the **MiniRT project from 42 School**
 
-- 🌱 I’m currently learning **C languange and will soon evolve to C++ and others**
+- 🌱 Learning **C, C++ and Python**
 
 - 📫 How to reach me **carolinavbastos@hotmail.com**
 
