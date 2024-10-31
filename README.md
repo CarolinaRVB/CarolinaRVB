@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Carolina Vela Bastos</h1>
-<h3 align="center">Programmer in the making!</h3>
 <h4 align="center">Studying Software Development at 42 Lisbon</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinarvb&label=Profile%20views&color=0e75b6&style=flat" alt="carolinarvb" /> </p>
 
