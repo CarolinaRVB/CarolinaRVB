@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carolinarvb" alt="carolinarvb" /></a> </p>
 
-- 🔭 I’m currently working on the **MiniRT project from 42 School**
+- 🔭 I’m currently working on the **Inception project from 42 School - Docker containers**
 
 - 🌱 Learning **C, C++ and Python**
 
